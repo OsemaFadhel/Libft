@@ -3,6 +3,8 @@
 It will contain a lot of general purpose functions your programs will rely upon.
 </h4>
 
+<h2 align="left"> Final Grade 125/125 ✅ </h2>
+
 <h1 align="center"> Functions 🧑🏻‍💻 ⚙️ </h1>
 
 
